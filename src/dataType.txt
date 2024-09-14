@@ -1,0 +1,10 @@
+Undefined
+Null
+Boolean
+Number
+Bigint
+String
+Symbol
+
+Object (Array)
+Function
